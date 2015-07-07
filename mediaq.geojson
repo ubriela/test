@@ -3,6 +3,7 @@
   "features": [
     {
       "type": "Feature",
+      "id" : "1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -18,6 +19,7 @@
     },
     {
       "type": "Feature",
+      "id" : "2",
       "geometry": {
         "type": "Point",
         "coordinates": [
