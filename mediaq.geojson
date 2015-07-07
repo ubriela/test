@@ -7,10 +7,9 @@
       "id" : 0,
       "geometry": {
         "type": "Point",
-        "coordinates": [[
+        "coordinates": [
           -118.28841090202332,
           34.023142442135686
-          ]
         ]
       },
       "properties": {
