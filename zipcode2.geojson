@@ -3,22 +3,6 @@
     "features": [
         {
             "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  -118.288410,
-                  34.023142
-                ]
-            },
-          "type": "Feature",
-          "id" : 10,
-          "properties": {
-            "videoid": "1",
-            "time": "Wednesday July 1 2015",
-            "href": "home"
-          }
-        },
-        {
-            "geometry": {
                 "type": "Polygon", 
                 "coordinates": [
                     [
