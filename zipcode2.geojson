@@ -4,13 +4,14 @@
         {
             "geometry": {
                 "type": "Point",
-                "coordinates": [
+                "coordinates": [[
                   -118.28841090202332,
                   34.023142442135686
+                  ]
                 ]
             },
           "type": "Feature",
-          "id" : 0,
+          "id" : 100,
           "properties": {
             "videoid": "1",
             "time": "Wednesday July 1 2015",
