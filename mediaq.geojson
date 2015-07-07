@@ -33,6 +33,7 @@
         "href": "http://mediaqv3.cloudapp.net/MediaQ_MVC_V3/home"
       }
     },
+    {
                 "geometry": {
                 "type": "Polygon", 
                 "coordinates": [
@@ -114,6 +115,6 @@
                     "7"
                 ]
             }
-        },
+        }
   ]
 }
